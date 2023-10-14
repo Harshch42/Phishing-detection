@@ -1,0 +1,13 @@
+url,isMalacious,maybeMalacious,isSafe
+https://www.google.com,No,No,Yes
+https://www.instagram.com,No,No,Yes
+https://www.facebook.com,No,No,Yes
+https://github.com/ankushyamkar10,No,Yes,No
+https://www.youtube.com/,No,No,Yes
+http://github.com,Yes,No,No
+http://www.github.com,No,Yes,No
+https://john-doe-software-developer.framer.ai/,Yes,No,No
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/,No,No,Yes
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/,No,No,Yes
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/,No,No,Yes
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/,No,No,Yes

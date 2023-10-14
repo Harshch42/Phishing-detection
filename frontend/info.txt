@@ -1,0 +1,6 @@
+1. Alert system (in dashboard)
+2. Detailed analysis (why website unsafe, what are user reports)
+3. Website reporting mechanism (allows users to report websites and why they are reporting it i.e. additional information)
+4. Phishing education (explain phishing in layman terms, explain why it is dangerous and why use our service to help avoid it)
+5. Feedback section (how to improve website, report any false positives)
+6. Browser extension (Chrome extension, real time detection)
