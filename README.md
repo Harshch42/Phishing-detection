@@ -1,7 +1,9 @@
 # Phishing Detection
 
-![Image Alt Text](images/img1.jpg)
 
-![Image Alt Text](images/img2.jpg)
+Preview 
+![Image Alt Text](web_images/phish_img_1.jpg)
 
-![Image Alt Text](images/img3.jpg)
+![Image Alt Text](web_images/phish_img_2.jpg)
+
+![Image Alt Text](web_images/phish_img_3.jpg)
